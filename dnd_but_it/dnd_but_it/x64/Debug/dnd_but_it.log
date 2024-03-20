@@ -1,0 +1,3 @@
+﻿  dnd_but_it.cpp
+C:\Users\Георгий\Documents\c++\dnd_but_it\dnd_but_it\dnd_but_it.cpp(324,24): warning C4101: a: неиспользованная локальная переменная
+  dnd_but_it.vcxproj -> C:\Users\Георгий\Documents\c++\dnd_but_it\x64\Debug\dnd_but_it.exe
